@@ -1,0 +1,1 @@
+<thead {{ $attributes->merge(['class' => 'bg-slate-50 dark:bg-primary/5 text-slate-500 dark:text-slate-400 text-[11px] uppercase font-bold tracking-wider'])}}>{{$slot}}</thead>
